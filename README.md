@@ -1,4 +1,4 @@
-# Star-Rating-System-IN-PHP
+# Star-Rating-System-IN-PHP ajax mysql
 Star Rating System IN PHP + MySQL + jQuery + Ajax
 Star rating system with PHP MySQL & jquery and ajax on products, posts. In this tutorial, we will show you how to build a start rating system with PHP MySQL using jQuery and ajax. As well as, To display the star ratings on the web (HTML) page from the database.
 
